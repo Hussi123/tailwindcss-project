@@ -9,11 +9,7 @@ a{
     color: inherit;
     background-color: transparent;
 }
-
-.section__title{
-
-}
-
-.section__button{
-/* color: #f0f8ff61;     */
+.section__btn-active{
+    background: #E130B4 !important;
+    color: white;
 }
